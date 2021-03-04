@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ctoec/component-librarystatic/css/main.2ba39a53.chunk.css",
+    "main.js": "/ctoec/component-librarymain.146f0f3a3d8abb3aae55.bundle.js",
+    "main.css.map": "/ctoec/component-librarystatic/css/main.2ba39a53.chunk.css.map",
+    "main.js.map": "/ctoec/component-librarymain.146f0f3a3d8abb3aae55.bundle.js.map",
+    "runtime~main.js": "/ctoec/component-libraryruntime~main.146f0f3a3d8abb3aae55.bundle.js",
+    "runtime~main.js.map": "/ctoec/component-libraryruntime~main.146f0f3a3d8abb3aae55.bundle.js.map",
+    "vendors~main.css": "/ctoec/component-librarystatic/css/vendors~main.19b7558e.chunk.css",
+    "vendors~main.js": "/ctoec/component-libraryvendors~main.146f0f3a3d8abb3aae55.bundle.js",
+    "vendors~main.css.map": "/ctoec/component-librarystatic/css/vendors~main.19b7558e.chunk.css.map",
+    "vendors~main.js.map": "/ctoec/component-libraryvendors~main.146f0f3a3d8abb3aae55.bundle.js.map",
+    "iframe.html": "/ctoec/component-libraryiframe.html",
+    "precache-manifest.464482be5ff9f2167c11094aff961eb4.js": "/ctoec/component-libraryprecache-manifest.464482be5ff9f2167c11094aff961eb4.js",
+    "service-worker.js": "/ctoec/component-libraryservice-worker.js",
+    "static/media/index.scss": "/ctoec/component-librarystatic/media/youtube15.9d356b3b.svg",
+    "vendors~main.146f0f3a3d8abb3aae55.bundle.js.LICENSE.txt": "/ctoec/component-libraryvendors~main.146f0f3a3d8abb3aae55.bundle.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "runtime~main.146f0f3a3d8abb3aae55.bundle.js",
+    "static/css/vendors~main.19b7558e.chunk.css",
+    "vendors~main.146f0f3a3d8abb3aae55.bundle.js",
+    "static/css/main.2ba39a53.chunk.css",
+    "main.146f0f3a3d8abb3aae55.bundle.js"
+  ]
+}
